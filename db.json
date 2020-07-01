@@ -1,0 +1,7 @@
+{
+    "todo":[
+        {"id":1, "content":"go to school"},
+        {"id":2, "content":"have a lunch"},
+        {"id":3, "content":"go home and do homework"}       
+    ]
+}
